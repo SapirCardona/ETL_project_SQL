@@ -1,4 +1,4 @@
-# ETL_exc1
+# ETL_project_SQL
 Submission assignment in the Data Analyst course on ETL using SQL
 
 README: ETL & Data Warehouse Implementation
